@@ -153,7 +153,7 @@
 	          {
 	            "link_settings": {
 	              "libraries": [
-					"-Wl,-rpath,@loader_path/../../../opencv-build/opencv/build/lib"
+					"-Wl,-rpath,/usr/local/opt/opencv@3/lib"
 	              ],
 	            }
 	          }
